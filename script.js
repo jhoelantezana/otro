@@ -1,3 +1,3 @@
-alert("Hola");
+alert("Bienvenido");
 var nombre = 'yoel';
 var apellido = 'antezana';
